@@ -1,8 +1,8 @@
 "# Calculator" 
 
 Step One:
-- [ ] add input field
-- [ ] add 3 buttons
+- [x] add input field
+- [x] add 3 buttons
 - [ ] show button value in input field by clicking
 
 ![Calculator](Calculator.jpg)
