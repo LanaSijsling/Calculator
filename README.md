@@ -1,4 +1,4 @@
-"# Calculator" 
+# Calculator
 
 Live demo: https://lanasijsling.github.io/Calculator/
 
