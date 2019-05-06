@@ -6,7 +6,7 @@ Step One:
 - [x] show button value in input field by clicking
 
 Complete calculator:
-- [ ] add the other buttons
+- [x] add the other buttons
 - [ ] show result
 - [ ] change css
 
