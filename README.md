@@ -1,5 +1,7 @@
 "# Calculator" 
 
+Live demo: https://lanasijsling.github.io/Calculator/
+
 Step One:
 - [x] add input field
 - [x] add 3 buttons
