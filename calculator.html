@@ -9,20 +9,22 @@
 </head>
 <body>
   <div class="calculator">
-    <div id="display"></div></br>
-    <input id="one" type="button" onclick="input()" value="1">
-    <input id="two" type="button" value="2">
-    <input id="add" type="button" value="+">
+    <div class="display"></div></br>
+      <div class="buttons">
+      <button class="num-btn" onclick="push(1)">1</button>
+      <button class="num-btn" onclick="push(2)">2</button>
+      <button class="sym-btn" onclick="push('+')">+</button>
+    </div>
   </div>
 
 
 <script>
 
-function  input() {
-  document.querySelector("#display").innerHTML = "1";
+var display = document.querySelector(".display");
+
+function push(n) {
+  display.append(n);
 }
-
-
 
 </script>
 

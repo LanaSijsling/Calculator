@@ -2,9 +2,24 @@ body {
   margin: 20px;
 }
 
-#display {
+.calculator {
+  height: 300px;
+  width: 220px;
+  margin: 0;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.display {
   height: 20px;
-  width: 150px;
+  width: 200px;
+  margin: 0;
+  padding: 10px;
   border: 1px solid black;
   text-align: right;
+}
+
+.num-btn, .sym-btn {
+  height: 40px;
+  width: 70px;
 }
