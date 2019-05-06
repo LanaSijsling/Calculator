@@ -7,8 +7,8 @@ Step One:
 
 Complete calculator:
 - [x] add the other buttons
-- [ ] show result
-- [ ] change css
+- [x] show result
+- [x] change css
 
 ![Calculator](Calculator.jpg)
 ![Calculator_Step1](Calculator_Step1.jpg)
