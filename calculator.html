@@ -9,10 +9,22 @@
 </head>
 <body>
   <div class="calculator">
-    <input type="text"></br>
-    <input type="button" value="1">
-    <input type="button" value="2">
-    <input type="button" value="+">
+    <div id="display"></div></br>
+    <input id="one" type="button" onclick="input()" value="1">
+    <input id="two" type="button" value="2">
+    <input id="add" type="button" value="+">
   </div>
+
+
+<script>
+
+function  input() {
+  document.querySelector("#display").innerHTML = "1";
+}
+
+
+
+</script>
+
 </body>
 </html>
